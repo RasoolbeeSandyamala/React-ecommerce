@@ -1,0 +1,35 @@
+.link:hover{
+  color: orangered !important;
+  border-bottom: 3px solid orangered !important;
+}
+.link-1{
+  font-size: 18px !important;
+  letter-spacing: 1px;
+  color: orangered !important;
+  border-bottom: 3px solid orangered !important;
+}
+.link{
+  letter-spacing: 1px;
+  font-size: 18px !important;
+}
+.carousel img{
+  height: 600px !important;
+}
+.img1{
+  filter: brightness(400%)!important;
+  
+}
+.gallery {
+ display: flex;
+ flex-wrap: wrap;
+ gap: 30px;
+ align-items: center;
+ justify-content: center;
+}
+.gallery .cards img{
+  width: 300px;
+  height: 300px;
+}
+/* .section2{
+  height: 400px;
+} */
